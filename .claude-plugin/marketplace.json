@@ -1,0 +1,16 @@
+{
+  "name": "gtm-execution-playbook",
+  "owner": {
+    "name": "Ryan Everton"
+  },
+  "metadata": {
+    "description": "Week-to-week founder-led sales: the flooded vs. untouched test, two-sentence cold email, in-person motions, lead magnets, AEO and a 30-day plan."
+  },
+  "plugins": [
+    {
+      "name": "gtm-execution-playbook",
+      "source": "./",
+      "description": "Week-to-week founder-led sales: the flooded vs. untouched test, two-sentence cold email, in-person motions, lead magnets, AEO and a 30-day plan."
+    }
+  ]
+}

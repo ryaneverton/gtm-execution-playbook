@@ -1,0 +1,24 @@
+{
+  "name": "gtm-execution-playbook",
+  "description": "Week-to-week founder-led sales: the flooded vs. untouched test, two-sentence cold email, in-person motions, lead magnets, AEO and a 30-day plan.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryan Everton",
+    "url": "https://ryaneverton.org"
+  },
+  "homepage": "https://github.com/ryaneverton/gtm-execution-playbook",
+  "repository": "https://github.com/ryaneverton/gtm-execution-playbook",
+  "license": "MIT",
+  "keywords": [
+    "claude",
+    "claude-skills",
+    "agent-skills",
+    "go-to-market",
+    "gtm",
+    "sales",
+    "cold-email",
+    "outbound",
+    "aeo",
+    "founders"
+  ]
+}
